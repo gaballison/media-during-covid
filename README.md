@@ -8,7 +8,7 @@ On March 6, 2020, Indiana Governor Eric Holcomb issued [Executive Order 20-02](h
 
 Library patrons were instructed to keep all of their currently checked-out materials until told otherwise, and the focus shifted to emphasizing what materials were available online for free through the Library.
 
-The library re-opened to the public in a limited capacity on Monday, June 15. Therefore the data for this project ranges from March 18 (the date we closed) to June 15th (the date we reopened).
+The library re-opened to the public in a limited capacity on Monday, June 15. To compare apples to apples as much as possible, I'm using data for the full months of March and June instead of only the days we were closed during those months.
 
 All of the data currently comes from JTPL patron usage of [Hoopla](https://hoopladigital.com), an online platform offering digital content in eBook, eAudiobook, movie, comic, music, and TV show formats. This project analyzes and visualizes this data on what formats and titles were most popular during this period.
 
@@ -48,6 +48,8 @@ These are the 3 specific [project requirements](https://docs.google.com/document
 - [x] Read data from an external file, such as text, JSON, CSV, etc and use that data in your application
 - [x] Create and call at least 3 functions, at least one of which must return a value that is used
 - [x] Visualize data in a graph, chart, or other visual representation of data
+
+I have also made at least **5** commits to this repo as per the above requirements :sweat_smile:
 
 ## Future Plans
 
