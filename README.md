@@ -45,7 +45,7 @@ It should automatically launch the notebook directory in your browser, so open t
 
 ## Project Requirements Met
 
-These are the 3 specific [project requirements](https://docs.google.com/document/d/1annXSfeq9YhIbbSKMig4ckWWaU0DmAeF1h3JbY0GOp0/edit) I aimed to meed:
+These are the 3 specific [project requirements](https://docs.google.com/document/d/1annXSfeq9YhIbbSKMig4ckWWaU0DmAeF1h3JbY0GOp0/edit) I aimed to meet:
 
 - [x] Read data from an external file, such as text, JSON, CSV, etc and use that data in your application
 - [x] Create and call at least 3 functions, at least one of which must return a value that is used
