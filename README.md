@@ -35,13 +35,19 @@ pipenv install
 
 ### 2. Run Jupyter Notebook
 
-The body of the project itself is in a Jupyter Notebook, so [start the notebook server](https://jupyter.readthedocs.io/en/latest/running.html) from the command line:
+The body of the project itself is in a Jupyter Notebook. If you're using `pipenv` you first want to launch the virtual environment by running
+
+```shell
+pipenv shell
+```
+
+Then [start the notebook server](https://jupyter.readthedocs.io/en/latest/running.html):
 
 ```shell
 jupyter notebook
 ```
 
-It should automatically launch the notebook directory in your browser, so open the `Main.ipynb` file to run it!
+It should automatically launch the notebook directory in your browser, so open the `Main.ipynb` file to run it! If you aren't using pipenv, just skip that first shell step and run the command to launch the notebook server.
 
 ## Project Requirements Met
 
